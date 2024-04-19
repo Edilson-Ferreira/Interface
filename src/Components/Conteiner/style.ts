@@ -24,13 +24,11 @@ export const BlockTwo = styled.div`
   gap: 10%;
 `
 export const NumberBlockTwo = styled.p`
-  //color: white;
+  color: white;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-  color: blue;
 `
 export const IconBlockTwo = styled.i`
-  //color: #8c8c8c;
-  color: blue;
+  color: #8c8c8c;
 ` 
 export const Segundario = styled.div`
   display: flex;
